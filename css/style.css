@@ -38,3 +38,9 @@ button{
 #proximo{
     right: 20px;
 }
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
